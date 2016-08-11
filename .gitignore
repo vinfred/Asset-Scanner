@@ -1,0 +1,13 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+Буде вилучено src/main/res/drawable/
+Буде вилучено .gitignore
+Буде вилучено build.gradle
+Буде вилучено proguard-rules.pro
+Буде вилучено src/
